@@ -1,0 +1,4 @@
+pyTenable==1.4.13
+elasticsearch==8.8.2
+asyncio==3.4.3
+aiohttp==3.8.5
